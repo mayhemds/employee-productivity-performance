@@ -43,7 +43,7 @@ This project analyzes employee work habits and predicts performance scores. The 
 
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/employee-performance-dashboard.git
+git clone https://github.com/mayhemds/employee-performance-dashboard.git
 cd employee-performance-dashboard
 
 # Install dependencies
@@ -65,15 +65,10 @@ python employee_performance_analysis.py
 
 ## 🔗 Project Links
 
-- **GitHub Repository:** [Your Repo Link]
 - **Live Dashboard (if applicable):** [Your Dashboard Link]
 
 ## 📬 Contact
 
 For any questions or contributions, feel free to reach out:
 
-- **Email:** <your.email@example.com>
-- **LinkedIn:** [Your LinkedIn Profile]
-
----
 _This project is part of my portfolio to demonstrate my skills in data analysis and visualization._ 🚀
