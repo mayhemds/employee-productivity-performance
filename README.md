@@ -51,11 +51,6 @@ pip install pandas numpy matplotlib seaborn openpyxl
 
 # Run the Python script
 python employee_performance_analysis.py
-```
-
-### 📊 Sample Visualizations
-
-![Performance Score by Department](images/performance_score_by_department.png)
 
 ## 📈 Results & Insights
 
@@ -65,7 +60,7 @@ python employee_performance_analysis.py
 
 ## 🔗 Project Links
 
-- **Live Dashboard (if applicable):** [[Your Dashboard Link](https://employee-appuctivity-performance-l97jywvpomphn9vxu3fqze.streamlit.app/)]
+- **Live Dashboard (if applicable):** [[Link to Live Dashboard](https://employee-appuctivity-performance-l97jywvpomphn9vxu3fqze.streamlit.app/)]
 
 ## 📬 Contact
 
