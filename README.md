@@ -41,7 +41,7 @@ This project analyzes employee work habits and predicts performance scores. The 
 
 ## 🚀 How to Run This Project
 
-```sh
+
 # Clone the repository
 git clone https://github.com/mayhemds/employee-performance-dashboard.git
 cd employee-performance-dashboard
